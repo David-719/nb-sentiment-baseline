@@ -24,8 +24,8 @@ python src/run_experiment.py --data data/imdb_full.csv --model bnb --vectorizer 
 
 | Setting (Model + Vectorizer)     |  Accuracy | Precision | Recall | F1 Score |
 | -------------------------------- | :-------: | :-------: | :----: | :------: |
-| MultinomialNB + TF-IDF (unigram) | **0.860** |   0.866   |  0.852 |   0.859  |
-| BernoulliNB + Count (unigram)    | **0.843** |   0.873   |  0.800 |   0.835  |
+| MultinomialNB + TF-IDF (unigram) |   0.860   |   0.866   |  0.852 |   0.859  |
+| BernoulliNB + Count (unigram)    |   0.843   |   0.873   |  0.800 |   0.835  |
 
 
 
